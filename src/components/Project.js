@@ -34,7 +34,7 @@ const projects = ()=>{
                 </div>
                 <div class="card">
                     <div class="box">
-                        <a href="https://chitransh-sr.github.io/portfolio/" target="_blank">
+                        <a href="https://chitransh-sr.github.io/portfolio-react/" target="_blank">
                             <img src={project3} alt=""/></a>
                         <div class="text">Portfolio Website </div>
                         <p> At its most basic form, a portfolio website provides professional information about an
